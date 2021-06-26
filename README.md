@@ -10,4 +10,4 @@ Step 3: npm istall
 
 Step 4: npm start
 
-Step 5: OPen bowser with URL - http://localhost:3000
+Step 5: Open bowser with URL - http://localhost:3000
