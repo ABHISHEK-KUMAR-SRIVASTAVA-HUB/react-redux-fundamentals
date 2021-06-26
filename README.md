@@ -1,4 +1,4 @@
-#### Basic implementation of react with redix using Cake Shop Scenario
+#### Basic implementation of React with redux using Cake Shop Scenario
 
 ##### Installation Steps
 
