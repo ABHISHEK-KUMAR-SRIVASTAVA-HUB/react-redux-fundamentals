@@ -1,4 +1,6 @@
-# Installation Steps
+### Basic implementation of react with redix using Cake shop Scenario
+
+#### Installation Steps
 
 Step 1: Clone the repository
 
